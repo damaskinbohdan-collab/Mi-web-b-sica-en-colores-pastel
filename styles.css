@@ -82,3 +82,15 @@ h2{
     padding: 15px;
     background-color: darkslategray;
 }
+.boton-leer-mas{
+    background-color:rgb(134, 211, 134);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.enviar{
+    background-color:rgb(177, 109, 162);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
