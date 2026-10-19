@@ -1,0 +1,83 @@
+.titulo{
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    
+}
+#menu{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    justify-content: center;
+  
+}
+h2{
+    font-size: 35px;
+}
+.boton-inicio{
+    background-color:rgb(134, 211, 134);
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.boton-sobremi{
+    background-color: rgb(115, 211, 211);
+    border-radius: 10px;
+    padding: 10px;
+}
+.boton-colores{
+    background-color: rgb(223, 223, 67);
+    border-radius: 10px;
+    padding: 10px;
+}
+.boton-contacto{
+    background-color: rgb(194, 87, 87);
+    border-radius: 10px;
+}
+#section1{
+    background-color: rgb(153, 228, 153);
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px;
+}
+#section2{
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px;
+}
+#section3{
+    background-color: rgb(241, 241, 139);
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px;
+
+}
+.caja1{
+    background-color: rgb(216, 141, 141);
+    border-radius: 10px;
+    padding: 5px;
+}
+.caja2{
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 5px;
+
+}
+.caja3{
+    background-color: rgb(153, 228, 153);
+    border-radius: 10px;
+    padding: 5px;
+}
+#section4{
+    background-color: rgb(211, 169, 211);
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px;
+}
+#footer{
+    text-align: center;
+    border-radius: 30px;
+    padding: 15px;
+    background-color: darkslategray;
+}
